@@ -1,0 +1,152 @@
+{
+    "logo": {
+        "nombreLogo": "menu",
+        "imageLogo": "depositphotos_massage.png"
+    },
+    "allCategories": [
+        {
+            "nombreCategoria": "Inicio",
+            "redireccion": "#inicio",
+            "subCategorias": [
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                }
+            ]
+        },
+        {
+            "nombreCategoria": "Centro",
+            "redireccion": "#Centro",
+            "subCategorias": [
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                }
+            ]
+        },
+        {
+            "nombreCategoria": "Servicios",
+            "redireccion": "#Servicios",
+            "subCategorias": [
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                }
+            ]
+        },
+        {
+            "nombreCategoria": "Nosotros",
+            "redireccion": "#Nosotros",
+            "subCategorias": [
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                }
+            ]
+        },
+        {
+            "nombreCategoria": "Blog",
+            "redireccion": "#Blog",
+            "subCategorias": [
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                }
+            ]
+        },
+        {
+            "nombreCategoria": "Contacto",
+            "redireccion": "#Contacto",
+            "subCategorias": [
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                },
+                {
+                    "nombreSubCategoria": "SubCategoriaPrueba"
+                }
+            ]
+        }
+    ]
+}

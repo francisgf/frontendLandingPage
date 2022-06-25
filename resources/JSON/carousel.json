@@ -1,0 +1,21 @@
+{
+    "allImageCarousel": [{
+        "nombreImage": "nombreImage",
+        "elementImage": "elementImage",
+        "status": "enabled"
+    }],
+    "allButtons": {
+        "buttons": [{
+                "nameSpanish": "anterior",
+                "nameEnglish": "previous",
+                "imageButton": null
+            },
+            {
+                "nameSpanish": "siguiente",
+                "nameEnglish": "next",
+                "imageButton": null
+            }
+        ],
+        "status": "enabled"
+    }
+}

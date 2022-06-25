@@ -1,0 +1,80 @@
+{
+    "logo": {
+        "nombreLogo": "menu",
+        "imagenLogo": "depositphotos_massage.png",
+        "redireccion": "#Inicio"
+    },
+    "allCategories": [
+        {
+            "nombreCategoria": "MiCuenta",
+            "subCategorias": [
+                {
+                    "redireccion": "#Registrate",
+                    "nombreSubCategoria": "Registrate"
+                },
+                {
+                    "redireccion": "#Iniciar Sesión",
+                    "nombreSubCategoria": "Inicia tu sesión"
+                }
+            ]
+        },
+        {
+            "nombreCategoria": "Servicios",
+            "subCategorias": [
+                {
+                    "redireccion": "#Servicio uno",
+                    "nombreSubCategoria": "textareatextarea"
+                },
+                {
+                    "redireccion": "#Servicio dos",
+                    "nombreSubCategoria": "textareatextarea"
+                },
+                {
+                    "redireccion": "#Servicio tres",
+                    "nombreSubCategoria": "textareatextarea"
+                },
+                {
+                    "redireccion": "#Servicio cuatro",
+                    "nombreSubCategoria": "textareatextarea"
+                }
+            ]
+        },
+        {
+            "nombreCategoria": "Nosotros",
+            "subCategorias": [
+                {
+                    "nombreSubCategoria": "textareatextarea textareatextarea textareatextarea textareatextarea textareatextarea textareatextarea textareatextarea textareatextarea"
+                }
+            ]
+        },
+        {
+            "nombreCategoria": "Contactanos",
+            "subCategorias": [
+                {
+                    "nombreSubCategoria": " +(511) 6482157"
+                },
+                {
+                    "nombreSubCategoria": "Av. Tomás Marsano 3467 - Santiago de Surco, Lima- Perú"
+                },
+                {
+                    "nombreSubCategoria": "exemplo@exemplo.org"
+                }
+            ]
+        }
+    ],
+    "redesCategoria": "Siguenos en:",
+    "subCategoria": [
+        {
+            "redireccion": "#Facebook",
+            "imagenlogo": "fab fa-facebook"
+        },
+        {
+            "redireccion": "#Instagram",
+            "imagenlogo": "fab fa-instagram-square"
+        },
+        {
+            "redireccion": "#Youtube",
+            "imagenlogo": "fab fa-youtube"
+        }
+    ]
+}

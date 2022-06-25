@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+#footer{
+    width: 100vw;
+    height: 400px;
+    display: block;
+    border: 1px solid red;
+}
+.container{
+    width: 100%;
+}
+.principal{ /* PADRE  */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.colum1{
+    margin-right: 30px;
+}
+.colum1>h2{ /*  HIJO  */
+    margin-bottom: 0;
+}
+.colum1>p{ /*  HIJO  */
+    margin-top: 0;
+}
+.secundario{
+    display: flex;
+    justify-content: space-between;
+}
+.colum{
+    width: 22%;
+}
+.title{
+    color: darkturquoise;
+}
+.enlaces{
+    margin: 0;
+    padding: 0;
+}
+.enlaces li{
+    list-style: none;
+}
+.enlaces a{
+    text-decoration: none;
+}
+
+.terciario{
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+

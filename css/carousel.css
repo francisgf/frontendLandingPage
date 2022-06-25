@@ -1,0 +1,51 @@
+.carouselContainer {
+    width: 100%;
+    max-width: max-content;
+    margin: auto;
+    overflow: hidden;
+}
+
+.carousel-initial {
+    /* modificar width dependiendo de la cantidad de imagenes  */
+    width: 300%;
+    height: 400px;
+    display: flex;
+    margin-left: -100%;
+}
+
+.carousel-item {
+    width: 100%;
+}
+
+.carouselimage {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-btn {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: blue;
+    top: 27%;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: xx-large;
+    font-family: monospace;
+}
+
+.carousel-btn:hover {
+    background-color: #ffffff;
+}
+
+button.prev {
+    left: 20px;
+}
+
+button.next {
+    right: 20px;
+}
