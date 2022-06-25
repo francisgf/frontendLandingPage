@@ -6,20 +6,82 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/CSS/index.css" />
+    <link rel="stylesheet" href="../CSS/navbar.css">
+    <link rel="stylesheet" href="/CSS/carousel.css">
+    <link rel="stylesheet" href="../CSS/footer.css">
     <title>Fisioterapia</title>
 </head>
 
 <body>
     <header id="navbar_initial" class="navbar">
-        <iframe src="/Components/navbar.html"></iframe>
+        <nav class="navbar-menu">
+            <a class="navbar-logo" href="">
+                <div class="logo">
+                </div>
+            </a>
+            <ul class="enlaces enlaces-visible">
+            </ul>
+            <button class="boton">
+                <i class="fas fa-bars"></i>
+            </button>
+
+        </nav>
     </header>
     <div id="carousel">
-        <iframe src="/Components/carousel.html"></iframe>
+        <div id="carouselContainer" class="carouselContainer">
+            <div class="carousel-initial" id="carousel-initial">
+                <div class="carousel-item enabled">
+                    <img src="/resources/Imagenes/depositphotos_life-people.jpg" class="carouselimage" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="/resources/Imagenes/depositphotos_logo-template.jpg" class="carouselimage" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="/resources/Imagenes/depositphotos.jpg" class="carouselimage" alt="">
+                </div>
+            </div>
+            <div class="containerBtn">
+                <button class="carousel-btn prev" type="button" id="btnPrevious">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">&#60;</span>
+                </button>
+                <button class="carousel-btn next" type="button" id="btnNext">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">&#62;</span>
+                </button>
+            </div>
+        </div>
     </div>
     <footer id="footer-unique" class="footer">
-        <iframe src="/Components/footer.html"></iframe>
+        <div class="container">
+            <div class="principal">
+                <div class="colum1">
+                    <h2>Suscribete</h2>
+                    <p>Entérate de nuestras novedades</p>
+                </div>
+                <div class="colum1">
+                    <form action="" class="form">
+                        <input type="text" placeholder="correo eléctronico">
+                        <button type="submit">Enviar</button>
+                    </form>
+                </div>
+            </div>
+
+            <div class="secundario">
+
+            </div>
+
+            <div class="terciario">
+
+
+            </div>
+
         </div>
     </footer>
+    <script src="../JS/utilities.js"></script>
+    <script src="../JS/navbar.js"></script>
+    <script src="../JS/footer.js"></script>
+    <script src="/JS/carousel.js"></script>
     <script src="JS/vendor/jquery-3.6.0.min.js"></script>
 </body>
 
