@@ -30,16 +30,18 @@
     position: absolute;
     width: 40px;
     height: 40px;
-    background-color: blue;
+    background-color: transparent;
     top: 27%;
     border-radius: 50%;
     cursor: pointer;
     font-size: xx-large;
     font-family: monospace;
+    color: #ffffff1c;
+    border: solid;
 }
 
 .carousel-btn:hover {
-    background-color: #ffffff;
+    background-color: #ffffff25;
 }
 
 button.prev {
