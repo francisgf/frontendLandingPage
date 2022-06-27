@@ -1,15 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Flex:opsz,wght@8..144,100;8..144,200;8..144,300;8..144,400;8..144,500;8..144,600;8..144,700;8..144,900&display=swap');
 #card {
+    width: 320px !important;
+    height: 285px;
     display: flex;
     align-content: center;
     flex-direction: column;
+    margin: auto;
 }
 
 #services-detail {
+    background-image: url("../resources/Imagenes/backgroud-detail-services.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
     width: 100%;
     height: 100%;
     display: flex;
     padding: 10%;
-    background: #614768;
     align-content: stretch;
     align-items: center;
     flex-wrap: wrap;
@@ -19,7 +25,7 @@
 .card-services {
     display: flex;
     width: 25%;
-    height: 230px;
+    height: 285px;
     margin: 50px 0px 50px 300px;
     background-color: #ffffff;
 }
@@ -29,11 +35,12 @@
 }
 
 .parrafo {
-    font-size: x-large;
-    padding: 10px 0px 10px 20px;
+    font-size: 2em;
+    padding: 10px 20px 10px 20px;
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
-    color: orange;
+    color: #FF531F;
+    /* font-family: 'Lato', sans-serif;*/
 }
 
 .span {
@@ -51,6 +58,11 @@
     border-radius: 3px;
 }
 
+.btn:hover {
+    background-color: #f34216;
+    cursor: pointer;
+}
+
 .btn>.span {
     padding: 5px;
 }
@@ -58,5 +70,5 @@
 #image-card {
     /* background-color: #f55a33;
     width: 30px; */
-    margin: -20px 0px 0px -60px;
+    margin: -20px 0px 0px -160px
 }
