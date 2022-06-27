@@ -63,3 +63,32 @@ iframe {
     align-items: center;
     justify-content: center;
 }
+
+#content-form-email {
+    height: 75%;
+    display: flex;
+    width: 515px;
+    position: absolute;
+    left: 1000px;
+    padding: 2px;
+    align-items: end;
+}
+
+#form-email {
+    width: 100%;
+    height: 300px;
+    background: #FF531F;
+    padding: 2px;
+    justify-content: center;
+}
+
+.form-field {
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    color: rgb(78, 78, 78);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
