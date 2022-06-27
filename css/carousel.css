@@ -10,6 +10,7 @@
     width: 300%;
     height: 400px;
     display: flex;
+    flex-wrap: wrap;
     margin-left: -100%;
 }
 

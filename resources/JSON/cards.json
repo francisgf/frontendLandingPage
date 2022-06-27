@@ -1,0 +1,23 @@
+{
+    "allServices": [{
+            "image": "resources/Imagenes/depositphotos_logo-template.jpg",
+            "btn": "Lo necesito",
+            "parrafo": "Desarrollo de <span>Paginas Web</span> atractivas para tu <span>negocio</span>"
+        },
+        {
+            "image": "resources/Imagenes/depositphotos_logo-template.jpg",
+            "btn": "Lo necesito",
+            "parrafo": "Desarrollo de <span>Paginas Web</span> atractivas para tu <span>negocio</span>"
+        },
+        {
+            "image": "resources/Imagenes/depositphotos_logo-template.jpg",
+            "btn": "Lo necesito",
+            "parrafo": "Desarrollo de <span>Paginas Web</span> atractivas para tu <span>negocio</span>"
+        },
+        {
+            "image": "resources/Imagenes/depositphotos_logo-template.jpg",
+            "btn": "Lo necesito",
+            "parrafo": "Desarrollo de <span>Paginas Web</span> atractivas para tu <span>negocio</span>"
+        }
+    ]
+}
