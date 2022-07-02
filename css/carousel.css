@@ -6,7 +6,6 @@
 }
 
 .carousel-initial {
-    /* modificar width dependiendo de la cantidad de imagenes  */
     width: 300%;
     height: 400px;
     display: flex;
@@ -16,11 +15,12 @@
 
 .carousel-item {
     width: 100%;
+    display: flex;
+    justify-content: center;
 }
-
 .carouselimage {
     display: block;
-    width: 100%;
+    width: 200px;
     height: 100%;
     object-fit: cover;
 }

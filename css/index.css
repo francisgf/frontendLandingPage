@@ -101,3 +101,11 @@ iframe {
     color: white;
     cursor: pointer;
 }
+
+#content-header {
+    background-image: url(../resources/Imagenes/fonfo-orange.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 700px;
+}
